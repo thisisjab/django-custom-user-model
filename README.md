@@ -1,4 +1,3 @@
 # Custom User Model in Djagno
 
-In this project, I have tried to show how to create a custom user model in Django.
-This project will remain archived.
+Throughout this project, I have learnt how to create a custom user model in Django. Since this project is not being maintained and only includes beginner-level information, it's archived.
